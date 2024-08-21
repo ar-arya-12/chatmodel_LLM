@@ -1,6 +1,6 @@
 # Chatmodel Using Google Gemini
 
-This repository contains the code to implement chatmodel that uses google gemini to generate the responses.
+This code creates a Streamlit app where users can type a question, click a button to submit it, and receive an AI-generated response from the Google Gemini model.
 
 ### Libraries:
 
